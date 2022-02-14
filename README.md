@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StefDuda01
+- 👀 I’m interested in bot making
+- 🌱 I’m currently learning decentralized systems
+- 📫 How to reach me: Politecnico di Milano - Ingegneria aerospaziale
